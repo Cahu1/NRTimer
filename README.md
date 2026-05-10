@@ -13,7 +13,7 @@ Tempête 1
 Jour 1 Phase 2
 Tempête 2 
 Boss 1  
---> Appuyer sur F1 après le chargement du début, dès que vous voyez votre perso en l'air sur son oiseau.
+--> Appuyer sur F1 dès que vous voyez "Jour 1" à l'écran.
 
 F2 à appuyer pour lancer le 2eme jour. Le premier jour contient:
 Jour 2 Phase 1
